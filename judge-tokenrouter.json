@@ -1,0 +1,26 @@
+{
+  "pairwise": {
+    "A": {
+      "wins": 1,
+      "beats": [
+        5
+      ]
+    },
+    "B": {
+      "wins": 0,
+      "beats": []
+    },
+    "C": {
+      "wins": 0,
+      "beats": []
+    }
+  },
+  "winner": "A",
+  "reasons": {
+    "A": "Jury-duty backfire has a clean final-word twist and a fresher angle than the therapy cliché.",
+    "B": "Fortune-cookie setup is familiar and the 'neither' punch is muddled.",
+    "C": "Horoscope/lottery conspiracy is clever but predictable and less funny than the board."
+  },
+  "provider": "tokenrouter",
+  "model": "deepseek/deepseek-v4.1-flash-1017-free"
+}
